@@ -1,3 +1,9 @@
+## Feedback
+
+Great job on the theory homework Lucy! Detailed feedback and grades will be released by CFG soon.
+
+
+
 <h2>1. How does Object Oriented Programming differ from Process Oriented Programming?</h2>
 
 <p>Object Oriented Programming (OOP) is a programming paradigm that provides a way to structure programs 
